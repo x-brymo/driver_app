@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643602608808",
+    "project_id": "deliver-user-bbe20",
+    "storage_bucket": "deliver-user-bbe20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643602608808:android:9c734cc6c4e617f957089d",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOzC90dLZisc4DVbXXoaRM4gT0TNgDM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
